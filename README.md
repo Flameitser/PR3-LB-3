@@ -52,5 +52,7 @@
 
 Анализ трафика с помощью Wireshark
 
-![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/f039ba74-deaa-4cbb-be37-e1f617dc4b67)
+![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/5ff68963-b6e5-4d26-9e52-e3bbbb17b589)
+
+![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/f93e7c44-b0b6-47cd-a4e2-c67bfef66df4)
 
