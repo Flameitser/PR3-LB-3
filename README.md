@@ -37,3 +37,11 @@
 
 ![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/0fdf31a3-07f0-4f73-8819-d0e94fb58eca)
 
+
+Установим OWASP ZAP
+
+![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/b076c410-e857-43e1-9232-561b1ab13357)
+
+![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/9121a6e0-8436-4e91-82c8-b0a5f5e0fa86)
+
+
