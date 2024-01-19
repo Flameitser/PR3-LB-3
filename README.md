@@ -32,3 +32,8 @@
 
 
 ![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/ebdaf666-6be5-446b-9773-2645142ecd9d)
+
+![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/9a04f74f-1bfc-457a-911b-cbea89332f08)
+
+![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/0fdf31a3-07f0-4f73-8819-d0e94fb58eca)
+
