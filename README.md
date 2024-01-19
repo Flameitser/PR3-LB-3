@@ -44,4 +44,13 @@
 
 ![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/9121a6e0-8436-4e91-82c8-b0a5f5e0fa86)
 
+Запускаем metasploit
+
+![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/3f594d48-571f-497d-9c02-d117b64fb614)
+
+![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/893b769a-be17-494e-9fc3-7c55c0dfd9b4)
+
+Анализ трафика с помощью Wireshark
+
+![image](https://github.com/Flameitser/PR3-LB-3/assets/65831927/f039ba74-deaa-4cbb-be37-e1f617dc4b67)
 
